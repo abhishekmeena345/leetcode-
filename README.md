@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmeena345/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmeena345/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
