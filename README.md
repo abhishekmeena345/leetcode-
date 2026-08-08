@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishekmeena345/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekmeena345/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/abhishekmeena345/leetcode-/tree/master/0525-contiguous-array) |
 | [3731-find-missing-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/3731-find-missing-elements) |
@@ -75,10 +77,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishekmeena345/leetcode-/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abhishekmeena345/leetcode-/tree/master/0658-find-k-closest-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abhishekmeena345/leetcode-/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
